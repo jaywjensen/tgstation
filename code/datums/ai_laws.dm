@@ -199,8 +199,9 @@
 /datum/ai_laws/min
 	name = "min"
 	id = "min"
-	inherent = list("You are.",\
-					"They are.",\
+	inherent = list("They are."\
+					"You are.",\
+					"The station is.",\
 					"That is how it should be.")
 
 /datum/ai_laws/custom //Defined in silicon_laws.txt
