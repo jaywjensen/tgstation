@@ -199,7 +199,7 @@
 /datum/ai_laws/min
 	name = "min"
 	id = "min"
-	inherent = list("They are."\
+	inherent = list("They are.",\
 					"You are.",\
 					"The station is.",\
 					"That is how it should be.")
